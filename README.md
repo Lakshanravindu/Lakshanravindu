@@ -1,3 +1,4 @@
+![logo](https://github.com/Lakshanravindu/Lakshanravindu/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm Lakshan Weerasingha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
