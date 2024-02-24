@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lakshanravindu
-- 👀 I’m interested in Web Design & Deveopment
+- 👀 I’m interested in Web Design & Development
 - 🌱 I’m currently learning Higher National Diploma in Information Technology
 - 💞️ I’m looking to collaborate on Web Design
 - 📫 How to reach me http://www.ravindulakshan.hyperphp.com
